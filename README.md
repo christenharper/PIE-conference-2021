@@ -25,3 +25,18 @@ First things first: you need the essential Raspberry Pi supplies. You can buy th
 - [Buttons](https://www.amazon.com/dp/B07CG7VTGD/ref=sspa_dk_detail_9?psc=1&pd_rd_i=B07CG7VTGD&pd_rd_w=2rCtI&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=pQV2x&pf_rd_r=H9XK4F4X04MYYKZ7CC22&pd_rd_r=c9f3b003-fcdd-4c06-b471-96dd0999df56&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzFFM1NWWlNLNzFDJmVuY3J5cHRlZElkPUEwMTE0NzI5MjU1ODJSVlFPWkNSTyZlbmNyeXB0ZWRBZElkPUEwMzk2MDA1M0FLOVMwQVdXMjFPQSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [GPIO Reference Boards](https://www.amazon.com/GPIO-Reference-Board-Raspberry-Model/dp/B07DPGMSC3/ref=sxbs_sxwds-stvp?keywords=GPIO+reference+board+bulk&pd_rd_i=B07DPGMSC3&pd_rd_r=96f16987-3cb8-4fac-80d5-89f71d8db120&pd_rd_w=T6bVH&pd_rd_wg=kOJt7&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=YE6XVGRR5305F4RC8CCW&qid=1574117946&s=industrial)
 - [Some more fun stuff](https://www.amazon.com/SunFounder-Raspberry-Compatible-Electronics-Programming/dp/B07WV2HYC6/ref=sr_1_2_sspa?crid=3D9863RJJCTPI&keywords=raspberry+pi+starter+kit&qid=1574117985&s=industrial&sprefix=raspberry+pi+%2Cindustrial%2C148&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUtCSzNTTkpONFNIJmVuY3J5cHRlZElkPUEwNTA3NDI4MlBTR0hDSkE1OFE5SSZlbmNyeXB0ZWRBZElkPUExMDIwNzg0MTlJV0owMVNBMUJVTSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+For Activities, check out the [GPIO zero library](https://gpiozero.readthedocs.io/en/stable/).
+
+## Website and Database Resources
+### Free Text Editors
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Brackets](http://brackets.io/)
+- [Atom](https://atom.io/)
+- [CodeSandbox](https://codesandbox.io/) - online, great for Chromebooks
+
+## [GitHub Pages as a free web host](https://guides.github.com/features/pages/)
+
+## Free Database resources
+- [Socratia Youtube channel](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
+- [Postgres](https://www.postgresql.org/)
