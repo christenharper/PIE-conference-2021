@@ -40,6 +40,18 @@ For Activities, check out the [GPIO zero library](https://gpiozero.readthedocs.i
 ## Free Database resources
 - [Socratia Youtube channel](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
 - [Postgres](https://www.postgresql.org/)
+- [SFTP Extention for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp)
+
+## Awesome YouTube Channels
+- [Caleb Curry](https://www.youtube.com/c/CalebTheVideoMaker2/playlists) - Code Tutorials (check out his database design stuff)
+- [Dani Krossing](https://www.youtube.com/c/TheCharmefis/playlists) - Code Tutorials (check out his SQL and PHP stuff)
+- [Socratia](https://www.youtube.com/c/Socratica/playlists) - Amazing SQL crash courses
+- [Alexa Furby](https://www.youtube.com/watch?v=aCOsM-4NEKs) - check YouTube for some great Raspberry Pi project inspiration
+
+## Other Cool Links
+- [trinket](https://trinket.io/) - online Python text editor and activities
+- [Stack Overflow](https://stackoverflow.com/) - Code troubleshooting
+- [CodePen](https://codepen.io/) - Online Text editor and website inspiration
 
 ## Dev Catalyst Curriculum
 - Grants are available for your school to potentially receive this program at no cost. Contact christen@attheco.com for more details.
