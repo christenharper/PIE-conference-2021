@@ -40,3 +40,6 @@ For Activities, check out the [GPIO zero library](https://gpiozero.readthedocs.i
 ## Free Database resources
 - [Socratia Youtube channel](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
 - [Postgres](https://www.postgresql.org/)
+
+## Dev Catalyst Curriculum
+- Grants are available for your school to potentially receive this program at no cost. Contact christen@attheco.com for more details.
